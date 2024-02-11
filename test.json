@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "author": "John Doe",
+    "category": "Technology",
+    "title": "The Future of Artificial Intelligence",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae metus eget ligula fermentum hendrerit. Nullam sit amet feugiat mauris. Vestibulum quis metus vitae ante tempor fringilla. Sed feugiat libero sit amet vehicula semper."
+  },
+  {
+    "id": 2,
+    "author": "Jane Smith",
+    "category": "Science",
+    "title": "Exploring the Depths of the Ocean",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae metus eget ligula fermentum hendrerit. Nullam sit amet feugiat mauris. Vestibulum quis metus vitae ante tempor fringilla. Sed feugiat libero sit amet vehicula semper."
+  },
+  {
+    "id": 3,
+    "author": "David Johnson",
+    "category": "Health",
+    "title": "The Importance of Mental Health Awareness",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae metus eget ligula fermentum hendrerit. Nullam sit amet feugiat mauris. Vestibulum quis metus vitae ante tempor fringilla. Sed feugiat libero sit amet vehicula semper."
+  },
+  {
+    "id": 4,
+    "author": "Emily Brown",
+    "category": "Travel",
+    "title": "Discovering Hidden Gems Around the World",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae metus eget ligula fermentum hendrerit. Nullam sit amet feugiat mauris. Vestibulum quis metus vitae ante tempor fringilla. Sed feugiat libero sit amet vehicula semper."
+  },
+  {
+    "id": 5,
+    "author": "Michael Wilson",
+    "category": "Finance",
+    "title": "Investment Strategies for Beginners",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae metus eget ligula fermentum hendrerit. Nullam sit amet feugiat mauris. Vestibulum quis metus vitae ante tempor fringilla. Sed feugiat libero sit amet vehicula semper."
+  }
+]
